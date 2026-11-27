@@ -1,0 +1,8 @@
+{
+  "name": "모노그래프 — 포토 앨범 & PDF 스튜디오",
+  "description": "사진 여러 장을 올려 한 쪽에 한 장씩 감상하고, 사진마다 제목과 설명을 기록해 PDF로 저장할 수 있는 포토 앨범 앱입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
